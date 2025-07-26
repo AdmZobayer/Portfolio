@@ -7,7 +7,8 @@ description: Student, Aspiring Music Producer & AI Enthusiast from Dhaka, Bangla
 *Student | Aspiring Music Producer & AI Enthusiast*  
 Dhaka, Bangladesh  
 [Instagram](https://instagram.com/Adm_Zobayer)
-
+[Email]
+admzobayer5601@gmail.com
 ---
 
 ## About Me  

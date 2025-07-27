@@ -1,5 +1,5 @@
 ---
-title: ADM Zobayer Islam
+title: ADM Zobayer 
 description: Student, Aspiring Music Producer & AI Enthusiast from Dhaka, Bangladesh.
 ---
 
